@@ -1,6 +1,6 @@
 {
   "name": "books",
-  "homepage": "http://jabali04.github.io/reading-list-app",
+  "homepage": "http://jabali04.github.io/reading-list-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
